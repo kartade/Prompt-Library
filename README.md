@@ -1,5 +1,7 @@
 # Prompt Library
 
-Bilingual creative prompt blog, FR/EN, category menu, copy buttons, generated visual example, favicon and social sharing metadata.
+Creative prompt blog in French and English. Category navigation, copy buttons, visual example, favicon and Open Graph / X cards.
 
-Static site: index.html, favicon.svg, social.jpg. Deploy with Vercel, framework Other, no build command.
+Production: https://prompt-library-kartade.vercel.app
+
+Static deployment, no dependencies or build command. Edit the items and ui collections in index.html to add prompts or translations.
